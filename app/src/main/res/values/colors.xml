@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="fiolet">#9B59B6</color>
+    <color name="secondary_text_color">#988F8F</color>
+    <color name="main_text_color">#000000</color>
+    <color name="btn_style">#1C42B0</color>
 </resources>

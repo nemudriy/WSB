@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjectsProg/WorldSkillsBank/app/src/main/res/drawable/rounded_shape.xml" value="0.2203125" />
+        <entry key="..\:/ProjectsProg/WorldSkillsBank/app/src/main/res/drawable/rounded_shape_forbtn.xml" value="0.33046875" />
         <entry key="..\:/ProjectsProg/WorldSkillsBank/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
