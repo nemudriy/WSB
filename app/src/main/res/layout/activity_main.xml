@@ -50,8 +50,8 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:layout_marginTop="50dp"
-        android:paddingTop="15dp"
-        android:paddingBottom="15dp"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
         android:orientation="horizontal">
 
         <ImageView
@@ -172,6 +172,7 @@
     </LinearLayout>
 
     <Button
+        android:id="@+id/signInBtn"
         android:background="@drawable/rounded_shape_forbtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

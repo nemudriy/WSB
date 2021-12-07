@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginRight="15dp"
+    android:layout_marginLeft="15dp"
+    android:background="@color/backgr2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Введите ваш логин и пароль"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:textColor="@color/white"
+        >
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Логин"
+        android:textColor="@color/white"
+        android:id="@+id/login"
+        >
+    </EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Пароль"
+        android:textColor="@color/white"
+        android:id="@+id/password"
+        >
+    </EditText>
+
+
+
+</LinearLayout>
